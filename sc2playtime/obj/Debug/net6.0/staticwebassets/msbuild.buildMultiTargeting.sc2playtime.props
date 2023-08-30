@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\sc2playtime.props" />
+</Project>

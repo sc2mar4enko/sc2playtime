@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model PlayTimeModel
+
+@using (Html.BeginForm("PostReplaysFiles", "Calculate", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <input type="file" name="Files" multiple webkitdirectory />
+    <input type="submit" value="Upload" />
+}

@@ -1,0 +1,1788 @@
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\appsettings.json
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\sc2playtime.staticwebassets.runtime.json
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\sc2playtime.exe
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\sc2playtime.deps.json
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\sc2playtime.runtimeconfig.json
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\sc2playtime.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\sc2playtime.pdb
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.csproj.AssemblyReference.cache
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.AssemblyInfoInputs.cache
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.AssemblyInfo.cs
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.csproj.CoreCompileInputs.cache
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.RazorAssemblyInfo.cache
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.RazorAssemblyInfo.cs
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\staticwebassets\msbuild.sc2playtime.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\staticwebassets\msbuild.build.sc2playtime.props
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sc2playtime.props
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sc2playtime.props
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\scopedcss\bundle\sc2playtime.styles.css
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\scopedcss\projectbundle\sc2playtime.bundle.scp.css
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\refint\sc2playtime.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.pdb
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.genruntimeconfig.cache
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\ref\sc2playtime.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Humanizer.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\MessagePack.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.csproj.CopyComplete
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\__future__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\__phello__.foo.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_bootlocale.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_collections_abc.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_compat_pickle.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_dummy_thread.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_markupbase.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_osx_support.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_pyio.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_sitebuiltins.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_strptime.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_threading_local.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_weakrefset.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\abc.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\aifc.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\antigravity.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\argparse.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ast.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asynchat.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\base_events.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\base_subprocess.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\compat.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\constants.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\coroutines.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\events.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\futures.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\locks.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\log.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\proactor_events.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\protocols.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\queues.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\selector_events.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\sslproto.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\streams.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\subprocess.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\tasks.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\test_utils.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\transports.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\unix_events.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\windows_events.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\windows_utils.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncore.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\base64.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\bdb.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\binhex.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\bisect.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\bz2.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\cProfile.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\calendar.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\cgi.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\cgitb.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\chunk.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\clrtype.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\cmd.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\code.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\codecs.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\codeop.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\collections\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\collections\__main__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\collections\abc.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\colorsys.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\compileall.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\concurrent\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\concurrent\futures\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\concurrent\futures\_base.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\concurrent\futures\process.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\concurrent\futures\thread.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\configparser.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\contextlib.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\copy.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\copyreg.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\crypt.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\csv.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\_endian.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\macholib\README.ctypes
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\macholib\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\macholib\dyld.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\macholib\dylib.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\macholib\fetch_macholib
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\macholib\fetch_macholib.bat
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\macholib\framework.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\util.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\wintypes.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\curses\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\curses\ascii.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\curses\has_key.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\curses\panel.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\curses\textpad.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\datetime.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\dbm\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\dbm\dumb.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\dbm\gnu.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\dbm\ndbm.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\decimal.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\difflib.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\dis.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\README
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\archive_util.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\bcppcompiler.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\ccompiler.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\cmd.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\bdist.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\bdist_dumb.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\bdist_msi.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\bdist_rpm.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\bdist_wininst.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\build.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\build_clib.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\build_ext.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\build_py.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\build_scripts.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\check.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\clean.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\command_template
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\config.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\install.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\install_data.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\install_egg_info.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\install_headers.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\install_lib.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\install_scripts.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\register.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\sdist.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\upload.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\wininst-10.0-amd64.exe
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\wininst-10.0.exe
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\wininst-6.0.exe
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\wininst-7.1.exe
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\wininst-8.0.exe
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\wininst-9.0-amd64.exe
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\wininst-9.0.exe
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\config.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\core.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\cygwinccompiler.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\debug.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\dep_util.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\dir_util.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\dist.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\errors.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\extension.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\fancy_getopt.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\file_util.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\filelist.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\log.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\msvc9compiler.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\msvccompiler.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\spawn.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\sysconfig.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\text_file.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\unixccompiler.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\util.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\version.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\versionpredicate.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\doctest.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\dummy_threading.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\_encoded_words.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\_header_value_parser.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\_parseaddr.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\_policybase.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\architecture.rst
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\base64mime.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\charset.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\contentmanager.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\encoders.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\errors.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\feedparser.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\generator.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\header.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\headerregistry.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\iterators.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\message.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\mime\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\mime\application.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\mime\audio.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\mime\base.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\mime\image.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\mime\message.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\mime\multipart.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\mime\nonmultipart.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\mime\text.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\parser.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\policy.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\quoprimime.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\utils.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\aliases.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\ascii.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\base64_codec.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\big5.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\big5hkscs.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\bz2_codec.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\charmap.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp037.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1006.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1026.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1125.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1140.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1250.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1251.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1252.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1253.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1254.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1255.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1256.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1257.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1258.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp273.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp424.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp437.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp500.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp65001.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp720.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp737.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp775.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp850.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp852.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp855.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp856.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp857.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp858.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp860.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp861.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp862.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp863.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp864.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp865.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp866.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp869.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp874.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp875.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp932.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp949.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp950.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\euc_jis_2004.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\euc_jisx0213.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\euc_jp.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\euc_kr.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\gb18030.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\gb2312.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\gbk.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\hex_codec.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\hp_roman8.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\hz.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\idna.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso2022_jp.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso2022_jp_1.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso2022_jp_2.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso2022_jp_2004.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso2022_jp_3.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso2022_jp_ext.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso2022_kr.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_1.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_10.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_11.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_13.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_14.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_15.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_16.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_2.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_3.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_4.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_5.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_6.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_7.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_8.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_9.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\johab.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\koi8_r.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\koi8_u.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\latin_1.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_arabic.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_centeuro.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_croatian.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_cyrillic.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_farsi.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_greek.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_iceland.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_latin2.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_roman.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_romanian.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_turkish.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mbcs.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\palmos.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\ptcp154.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\punycode.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\quopri_codec.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\raw_unicode_escape.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\rot_13.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\shift_jis.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\shift_jis_2004.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\shift_jisx0213.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\tis_620.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\undefined.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\unicode_escape.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\unicode_internal.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\utf_16.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\utf_16_be.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\utf_16_le.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\utf_32.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\utf_32_be.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\utf_32_le.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\utf_7.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\utf_8.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\utf_8_sig.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\uu_codec.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\zlib_codec.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ensurepip\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ensurepip\__main__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ensurepip\_bundled\pip-18.1-py2.py3-none-any.whl
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ensurepip\_bundled\setuptools-40.6.2-py2.py3-none-any.whl
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ensurepip\_uninstall.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\enum.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\filecmp.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\fileinput.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\fnmatch.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\formatter.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\fractions.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ftplib.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\functools.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\genericpath.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\getopt.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\getpass.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\gettext.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\glob.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\gzip.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\hashlib.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\heapq.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\hmac.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\html\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\html\entities.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\html\parser.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\http\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\http\client.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\http\cookiejar.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\http\cookies.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\http\server.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\imaplib.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\imghdr.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\imp.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\importlib\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\importlib\_bootstrap.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\importlib\abc.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\importlib\machinery.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\importlib\util.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\inspect.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\io.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ipaddress.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\json\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\json\decoder.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\json\encoder.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\json\scanner.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\json\tool.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\keyword.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\Grammar.txt
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\PatternGrammar.txt
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\__main__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\btm_matcher.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\btm_utils.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixer_base.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixer_util.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_apply.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_asserts.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_basestring.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_buffer.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_callable.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_dict.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_except.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_exec.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_execfile.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_exitfunc.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_filter.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_funcattrs.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_future.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_getcwdu.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_has_key.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_idioms.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_import.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_imports.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_imports2.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_input.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_intern.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_isinstance.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_itertools.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_itertools_imports.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_long.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_map.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_metaclass.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_methodattrs.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_ne.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_next.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_nonzero.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_numliterals.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_operator.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_paren.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_print.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_raise.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_raw_input.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_reduce.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_reload.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_renames.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_repr.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_set_literal.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_standarderror.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_sys_exc.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_throw.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_tuple_params.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_types.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_unicode.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_urllib.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_ws_comma.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_xrange.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_xreadlines.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_zip.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\main.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\patcomp.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pgen2\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pgen2\conv.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pgen2\driver.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pgen2\grammar.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pgen2\literals.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pgen2\parse.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pgen2\pgen.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pgen2\token.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pgen2\tokenize.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pygram.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pytree.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\refactor.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\linecache.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\locale.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\logging\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\logging\config.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\logging\handlers.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lzma.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\macpath.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\macurl2path.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\mailbox.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\mailcap.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\mimetypes.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\modulefinder.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\msilib\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\msilib\schema.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\msilib\sequence.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\msilib\text.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\connection.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\context.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\dummy\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\dummy\connection.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\forkserver.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\heap.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\managers.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\pool.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\popen_fork.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\popen_forkserver.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\popen_spawn_posix.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\popen_spawn_win32.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\process.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\queues.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\reduction.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\resource_sharer.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\semaphore_tracker.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\sharedctypes.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\spawn.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\synchronize.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\util.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\netrc.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\nntplib.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ntpath.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\nturl2path.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\numbers.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\opcode.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\operator.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\optparse.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\os.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pathlib.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pdb.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pickle.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pickletools.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pipes.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pkgutil.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\platform.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\plistlib.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\poplib.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\posixpath.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pprint.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\profile.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pstats.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pty.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\py_compile.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pyclbr.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pydoc.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pydoc_data\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pydoc_data\_pydoc.css
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pydoc_data\topics.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\queue.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\quopri.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\random.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\re.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\reprlib.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\rlcompleter.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\runpy.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\sched.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\selectors.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\shelve.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\shlex.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\shutil.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\site-packages\README
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\site.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\smtpd.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\smtplib.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\sndhdr.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\socket.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\socketserver.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\sqlite3\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\sqlite3\dbapi2.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\sqlite3\dump.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\sre_compile.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\sre_constants.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\sre_parse.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ssl.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\stat.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\statistics.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\string.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\stringprep.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\struct.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\subprocess.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\sunau.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\symbol.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\symtable.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\sysconfig.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\tabnanny.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\tarfile.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\telnetlib.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\tempfile.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\textwrap.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\this.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\threading.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\timeit.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\token.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\tokenize.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\trace.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\traceback.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\tracemalloc.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\tty.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtle.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\__main__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\bytedesign.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\chaos.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\clock.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\colormixer.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\forest.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\fractalcurves.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\lindenmayer.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\minimal_hanoi.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\nim.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\paint.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\peace.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\penrose.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\planet_and_moon.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\round_dance.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\tree.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\turtle.cfg
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\two_canvases.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\wikipedia.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\yinyang.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\types.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\typing.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\__main__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\case.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\loader.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\main.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\mock.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\result.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\runner.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\signals.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\suite.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\util.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\urllib\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\urllib\error.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\urllib\parse.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\urllib\request.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\urllib\response.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\urllib\robotparser.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\uu.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\uuid.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\venv\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\venv\__main__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\venv\scripts\nt\Activate.ps1
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\venv\scripts\nt\activate.bat
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\venv\scripts\nt\deactivate.bat
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\venv\scripts\posix\activate
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\venv\scripts\posix\activate.csh
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\venv\scripts\posix\activate.fish
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\warnings.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\wave.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\weakref.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\webbrowser.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\wpf.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\wsgiref\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\wsgiref\handlers.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\wsgiref\headers.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\wsgiref\simple_server.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\wsgiref\util.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\wsgiref\validate.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xdrlib.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\dom\NodeFilter.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\dom\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\dom\domreg.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\dom\expatbuilder.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\dom\minicompat.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\dom\minidom.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\dom\pulldom.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\dom\xmlbuilder.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\etree\ElementInclude.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\etree\ElementPath.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\etree\ElementTree.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\etree\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\etree\cElementTree.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\parsers\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\parsers\expat.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\sax\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\sax\_exceptions.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\sax\expatreader.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\sax\handler.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\sax\saxutils.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\sax\xmlreader.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xmlrpc\__init__.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xmlrpc\client.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xmlrpc\server.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\zipfile.py
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.Dynamic.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.Scripting.Metadata.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.Scripting.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\IronPython.Modules.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\IronPython.SQLite.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\IronPython.Wpf.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\IronPython.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\Mono.Unix.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\android-arm\native\libMono.Unix.so
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\android-arm64\native\libMono.Unix.so
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\android-x64\native\libMono.Unix.so
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\android-x86\native\libMono.Unix.so
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\ios-arm\native\libMono.Unix.a
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\ios-arm64\native\libMono.Unix.a
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\ios-armv7s\native\libMono.Unix.a
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\iossimulator-arm64\native\libMono.Unix.a
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\iossimulator-x64\native\libMono.Unix.a
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\linux-arm\native\libMono.Unix.so
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\linux-arm64\native\libMono.Unix.so
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\linux-x64\native\libMono.Unix.so
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libMono.Unix.a
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libMono.Unix.a
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\osx-arm64\native\libMono.Unix.dylib
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\osx-x64\native\libMono.Unix.dylib
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\tvos-arm64\native\libMono.Unix.a
+C:\Users\liber\OneDrive\Рабочий стол\universitygraphicsbuilder\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\tvossimulator-x64\native\libMono.Unix.a
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\appsettings.Development.json
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\appsettings.json
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\__future__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\__phello__.foo.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_bootlocale.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_collections_abc.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_compat_pickle.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_dummy_thread.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_markupbase.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_osx_support.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_pyio.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_sitebuiltins.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_strptime.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_threading_local.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\_weakrefset.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\abc.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\aifc.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\antigravity.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\argparse.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ast.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asynchat.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\base_events.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\base_subprocess.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\compat.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\constants.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\coroutines.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\events.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\futures.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\locks.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\log.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\proactor_events.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\protocols.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\queues.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\selector_events.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\sslproto.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\streams.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\subprocess.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\tasks.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\test_utils.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\transports.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\unix_events.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\windows_events.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncio\windows_utils.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\asyncore.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\base64.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\bdb.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\binhex.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\bisect.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\bz2.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\cProfile.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\calendar.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\cgi.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\cgitb.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\chunk.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\clrtype.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\cmd.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\code.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\codecs.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\codeop.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\collections\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\collections\__main__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\collections\abc.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\colorsys.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\compileall.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\concurrent\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\concurrent\futures\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\concurrent\futures\_base.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\concurrent\futures\process.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\concurrent\futures\thread.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\configparser.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\contextlib.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\copy.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\copyreg.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\crypt.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\csv.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\_endian.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\macholib\README.ctypes
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\macholib\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\macholib\dyld.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\macholib\dylib.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\macholib\fetch_macholib
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\macholib\fetch_macholib.bat
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\macholib\framework.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\util.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ctypes\wintypes.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\curses\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\curses\ascii.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\curses\has_key.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\curses\panel.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\curses\textpad.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\datetime.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\dbm\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\dbm\dumb.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\dbm\gnu.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\dbm\ndbm.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\decimal.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\difflib.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\dis.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\README
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\archive_util.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\bcppcompiler.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\ccompiler.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\cmd.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\bdist.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\bdist_dumb.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\bdist_msi.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\bdist_rpm.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\bdist_wininst.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\build.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\build_clib.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\build_ext.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\build_py.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\build_scripts.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\check.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\clean.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\command_template
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\config.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\install.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\install_data.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\install_egg_info.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\install_headers.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\install_lib.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\install_scripts.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\register.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\sdist.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\upload.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\wininst-10.0-amd64.exe
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\wininst-10.0.exe
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\wininst-6.0.exe
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\wininst-7.1.exe
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\wininst-8.0.exe
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\wininst-9.0-amd64.exe
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\command\wininst-9.0.exe
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\config.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\core.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\cygwinccompiler.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\debug.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\dep_util.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\dir_util.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\dist.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\errors.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\extension.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\fancy_getopt.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\file_util.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\filelist.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\log.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\msvc9compiler.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\msvccompiler.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\spawn.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\sysconfig.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\text_file.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\unixccompiler.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\util.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\version.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\distutils\versionpredicate.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\doctest.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\dummy_threading.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\_encoded_words.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\_header_value_parser.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\_parseaddr.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\_policybase.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\architecture.rst
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\base64mime.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\charset.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\contentmanager.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\encoders.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\errors.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\feedparser.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\generator.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\header.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\headerregistry.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\iterators.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\message.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\mime\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\mime\application.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\mime\audio.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\mime\base.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\mime\image.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\mime\message.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\mime\multipart.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\mime\nonmultipart.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\mime\text.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\parser.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\policy.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\quoprimime.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\email\utils.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\aliases.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\ascii.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\base64_codec.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\big5.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\big5hkscs.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\bz2_codec.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\charmap.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp037.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1006.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1026.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1125.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1140.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1250.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1251.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1252.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1253.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1254.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1255.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1256.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1257.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp1258.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp273.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp424.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp437.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp500.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp65001.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp720.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp737.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp775.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp850.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp852.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp855.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp856.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp857.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp858.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp860.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp861.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp862.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp863.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp864.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp865.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp866.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp869.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp874.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp875.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp932.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp949.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\cp950.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\euc_jis_2004.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\euc_jisx0213.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\euc_jp.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\euc_kr.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\gb18030.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\gb2312.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\gbk.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\hex_codec.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\hp_roman8.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\hz.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\idna.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso2022_jp.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso2022_jp_1.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso2022_jp_2.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso2022_jp_2004.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso2022_jp_3.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso2022_jp_ext.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso2022_kr.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_1.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_10.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_11.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_13.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_14.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_15.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_16.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_2.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_3.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_4.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_5.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_6.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_7.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_8.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\iso8859_9.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\johab.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\koi8_r.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\koi8_u.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\latin_1.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_arabic.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_centeuro.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_croatian.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_cyrillic.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_farsi.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_greek.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_iceland.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_latin2.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_roman.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_romanian.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mac_turkish.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\mbcs.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\palmos.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\ptcp154.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\punycode.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\quopri_codec.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\raw_unicode_escape.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\rot_13.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\shift_jis.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\shift_jis_2004.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\shift_jisx0213.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\tis_620.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\undefined.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\unicode_escape.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\unicode_internal.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\utf_16.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\utf_16_be.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\utf_16_le.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\utf_32.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\utf_32_be.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\utf_32_le.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\utf_7.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\utf_8.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\utf_8_sig.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\uu_codec.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\encodings\zlib_codec.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ensurepip\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ensurepip\__main__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ensurepip\_bundled\pip-18.1-py2.py3-none-any.whl
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ensurepip\_bundled\setuptools-40.6.2-py2.py3-none-any.whl
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ensurepip\_uninstall.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\enum.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\filecmp.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\fileinput.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\fnmatch.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\formatter.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\fractions.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ftplib.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\functools.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\genericpath.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\getopt.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\getpass.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\gettext.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\glob.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\gzip.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\hashlib.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\heapq.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\hmac.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\html\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\html\entities.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\html\parser.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\http\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\http\client.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\http\cookiejar.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\http\cookies.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\http\server.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\imaplib.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\imghdr.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\imp.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\importlib\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\importlib\_bootstrap.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\importlib\abc.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\importlib\machinery.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\importlib\util.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\inspect.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\io.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ipaddress.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\json\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\json\decoder.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\json\encoder.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\json\scanner.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\json\tool.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\keyword.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\Grammar.txt
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\PatternGrammar.txt
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\__main__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\btm_matcher.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\btm_utils.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixer_base.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixer_util.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_apply.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_asserts.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_basestring.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_buffer.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_callable.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_dict.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_except.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_exec.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_execfile.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_exitfunc.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_filter.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_funcattrs.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_future.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_getcwdu.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_has_key.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_idioms.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_import.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_imports.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_imports2.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_input.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_intern.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_isinstance.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_itertools.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_itertools_imports.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_long.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_map.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_metaclass.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_methodattrs.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_ne.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_next.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_nonzero.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_numliterals.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_operator.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_paren.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_print.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_raise.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_raw_input.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_reduce.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_reload.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_renames.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_repr.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_set_literal.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_standarderror.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_sys_exc.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_throw.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_tuple_params.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_types.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_unicode.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_urllib.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_ws_comma.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_xrange.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_xreadlines.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\fixes\fix_zip.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\main.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\patcomp.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pgen2\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pgen2\conv.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pgen2\driver.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pgen2\grammar.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pgen2\literals.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pgen2\parse.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pgen2\pgen.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pgen2\token.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pgen2\tokenize.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pygram.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\pytree.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lib2to3\refactor.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\linecache.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\locale.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\logging\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\logging\config.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\logging\handlers.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\lzma.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\macpath.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\macurl2path.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\mailbox.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\mailcap.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\mimetypes.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\modulefinder.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\msilib\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\msilib\schema.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\msilib\sequence.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\msilib\text.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\connection.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\context.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\dummy\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\dummy\connection.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\forkserver.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\heap.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\managers.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\pool.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\popen_fork.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\popen_forkserver.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\popen_spawn_posix.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\popen_spawn_win32.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\process.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\queues.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\reduction.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\resource_sharer.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\semaphore_tracker.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\sharedctypes.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\spawn.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\synchronize.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\multiprocessing\util.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\netrc.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\nntplib.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ntpath.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\nturl2path.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\numbers.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\opcode.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\operator.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\optparse.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\os.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pathlib.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pdb.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pickle.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pickletools.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pipes.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pkgutil.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\platform.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\plistlib.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\poplib.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\posixpath.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pprint.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\profile.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pstats.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pty.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\py_compile.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pyclbr.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pydoc.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pydoc_data\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pydoc_data\_pydoc.css
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\pydoc_data\topics.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\queue.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\quopri.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\random.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\re.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\reprlib.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\rlcompleter.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\runpy.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\sched.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\selectors.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\shelve.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\shlex.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\shutil.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\site-packages\README
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\site.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\smtpd.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\smtplib.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\sndhdr.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\socket.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\socketserver.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\sqlite3\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\sqlite3\dbapi2.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\sqlite3\dump.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\sre_compile.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\sre_constants.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\sre_parse.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\ssl.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\stat.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\statistics.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\string.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\stringprep.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\struct.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\subprocess.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\sunau.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\symbol.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\symtable.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\sysconfig.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\tabnanny.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\tarfile.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\telnetlib.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\tempfile.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\textwrap.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\this.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\threading.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\timeit.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\token.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\tokenize.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\trace.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\traceback.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\tracemalloc.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\tty.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtle.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\__main__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\bytedesign.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\chaos.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\clock.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\colormixer.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\forest.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\fractalcurves.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\lindenmayer.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\minimal_hanoi.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\nim.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\paint.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\peace.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\penrose.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\planet_and_moon.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\round_dance.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\tree.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\turtle.cfg
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\two_canvases.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\wikipedia.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\turtledemo\yinyang.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\types.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\typing.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\__main__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\case.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\loader.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\main.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\mock.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\result.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\runner.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\signals.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\suite.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\unittest\util.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\urllib\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\urllib\error.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\urllib\parse.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\urllib\request.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\urllib\response.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\urllib\robotparser.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\uu.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\uuid.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\venv\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\venv\__main__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\venv\scripts\nt\Activate.ps1
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\venv\scripts\nt\activate.bat
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\venv\scripts\nt\deactivate.bat
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\venv\scripts\posix\activate
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\venv\scripts\posix\activate.csh
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\venv\scripts\posix\activate.fish
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\warnings.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\wave.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\weakref.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\webbrowser.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\wpf.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\wsgiref\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\wsgiref\handlers.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\wsgiref\headers.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\wsgiref\simple_server.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\wsgiref\util.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\wsgiref\validate.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xdrlib.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\dom\NodeFilter.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\dom\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\dom\domreg.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\dom\expatbuilder.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\dom\minicompat.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\dom\minidom.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\dom\pulldom.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\dom\xmlbuilder.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\etree\ElementInclude.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\etree\ElementPath.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\etree\ElementTree.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\etree\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\etree\cElementTree.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\parsers\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\parsers\expat.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\sax\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\sax\_exceptions.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\sax\expatreader.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\sax\handler.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\sax\saxutils.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xml\sax\xmlreader.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xmlrpc\__init__.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xmlrpc\client.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\xmlrpc\server.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lib\zipfile.py
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\sc2playtime.staticwebassets.runtime.json
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\sc2playtime.exe
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\sc2playtime.deps.json
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\sc2playtime.runtimeconfig.json
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\sc2playtime.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\sc2playtime.pdb
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.Dynamic.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.Scripting.Metadata.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.Scripting.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Humanizer.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\IronPython.Modules.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\IronPython.SQLite.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\IronPython.Wpf.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\IronPython.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\MessagePack.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.Build.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Mono.Unix.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\NuGet.Common.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\System.CodeDom.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\android-arm\native\libMono.Unix.so
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\android-arm64\native\libMono.Unix.so
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\android-x64\native\libMono.Unix.so
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\android-x86\native\libMono.Unix.so
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\ios-arm\native\libMono.Unix.a
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\ios-arm64\native\libMono.Unix.a
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\ios-armv7s\native\libMono.Unix.a
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\iossimulator-arm64\native\libMono.Unix.a
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\iossimulator-x64\native\libMono.Unix.a
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\linux-arm\native\libMono.Unix.so
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\linux-arm64\native\libMono.Unix.so
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\linux-x64\native\libMono.Unix.so
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libMono.Unix.a
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libMono.Unix.a
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\osx-arm64\native\libMono.Unix.dylib
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\osx-x64\native\libMono.Unix.dylib
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\tvos-arm64\native\libMono.Unix.a
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\tvossimulator-x64\native\libMono.Unix.a
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.csproj.AssemblyReference.cache
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.AssemblyInfoInputs.cache
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.AssemblyInfo.cs
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.csproj.CoreCompileInputs.cache
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.MvcApplicationPartsAssemblyInfo.cache
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.RazorAssemblyInfo.cache
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.RazorAssemblyInfo.cs
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\staticwebassets\msbuild.sc2playtime.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\staticwebassets\msbuild.build.sc2playtime.props
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sc2playtime.props
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sc2playtime.props
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\staticwebassets.build.json
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\staticwebassets.development.json
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\scopedcss\bundle\sc2playtime.styles.css
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\scopedcss\projectbundle\sc2playtime.bundle.scp.css
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.csproj.CopyComplete
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\refint\sc2playtime.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.pdb
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\sc2playtime.genruntimeconfig.cache
+E:\Coding\Projects\sc2playtime\sc2playtime\obj\Debug\net6.0\ref\sc2playtime.dll
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\scripts\Lib\site-packages\sc2reader-1.8.0.dist-info\metadata.json
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\scripts\Lib\site-packages\sc2reader\data\attributes.json
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\scripts\Lib\site-packages\sc2reader\data\train_commands.json
+E:\Coding\Projects\sc2playtime\sc2playtime\bin\Debug\net6.0\scripts\Lib\site-packages\sc2reader\data\unit_info.json
