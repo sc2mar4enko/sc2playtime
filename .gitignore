@@ -1,2 +1,4 @@
 **/bin/*
 sc2playtime/bin/Debug/net6.0/sc2playtime.pdb
+**/obj/*
+sc2playtime/bin/Debug/net6.0/sc2playtime.pdb

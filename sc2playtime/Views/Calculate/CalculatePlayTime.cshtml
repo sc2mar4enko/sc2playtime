@@ -1,12 +1,12 @@
-﻿
+﻿@model sc2playtime.Controllers.Playtime
 @{
     ViewData["Title"] = "Results";
 }
 
 <div>
     <ul>
-        <li>Games played: @Model.Item1</li>
-        <li>Total playtime: @Model.Item2 hours</li>
+        <li>Games played: @Model.GetGames()</li>
+        <li>Total playtime: @Model.GetHours() hours</li>
     </ul>
 </div>
 

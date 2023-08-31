@@ -1,38 +1,47 @@
 ﻿using System.Reflection;
-using IronPython;
-using IronPython.Hosting;
-using Microsoft.CodeAnalysis;
 using s2protocol.NET;
 
 namespace sc2playtime.scripts;
 
-public class ReplayAnalysis
+public static class ReplayAnalysis
 {
-    public static readonly string? _assemblyPath = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
+    private static readonly string? AssemblyPath = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
 
-    public static async Task<int> GameLengthReturning(string filePath, string? assemblyPath = null)
+    public static async ValueTask<(int, int)> GameLengthReturning(string replaysPath, string? assemblyPath = null)
     {
-        if (assemblyPath == null)
-        {
-            assemblyPath = _assemblyPath;
-        }
+        assemblyPath ??= AssemblyPath;
 
         ReplayDecoderOptions options = new ReplayDecoderOptions()
         {
-            Details = true,
-            Metadata = false,
+            Details = false,
+            Metadata = true,
             MessageEvents = false,
-            TrackerEvents = true,
+            TrackerEvents = false,
             GameEvents = false,
             AttributeEvents = false
         };
 
-        ReplayDecoder decoder = new(assemblyPath);
+        if (assemblyPath != null)
+        {
+            ReplayDecoder decoder = new(assemblyPath);
+            CancellationTokenSource cts = new();
+            var result = (0, 0);
+            var replays = Directory.GetFiles(replaysPath, "*.SC2Replay");
+            await foreach (var replay in decoder.DecodeParallel(replays, 2, options, cts.Token))
+            {
+                if (replay.Metadata != null)
+                {
+                    result.Item1++;
+                    result.Item2 += replay.Metadata.Duration;
+                }
+            }
 
-        Sc2Replay? replay = await decoder.DecodeAsync(filePath, options);
-        if (replay != null && replay.Metadata != null) 
-            return replay.Metadata.Duration;
-        return 0;
+            cts.Cancel();
+            cts.Dispose();
+            decoder.Dispose();
+            return result;
+        }
+
+        return (0,0);
     }
-
 }

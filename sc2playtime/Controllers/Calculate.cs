@@ -1,7 +1,4 @@
-﻿using System.Reflection;
-using System.Text.RegularExpressions;
-using IronPython.Hosting;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using sc2playtime.Helpers;
 using sc2playtime.scripts;
 
@@ -40,13 +37,12 @@ namespace sc2playtime.Controllers
             {
                 if (formFile.Length > 0)
                 {
-                    string fileName = _randomStringGenerator.GenerateRandomString() + Path.GetFileName(formFile.FileName);
+                    string fileName = _randomStringGenerator.GenerateRandomString() +
+                                      Path.GetFileName(formFile.FileName);
                     string filePath = Path.Combine(newFolderPath, fileName);
 
-                    using (var stream = new FileStream(filePath, FileMode.Create))
-                    {
-                        await formFile.CopyToAsync(stream);
-                    }
+                    await using var stream = new FileStream(filePath, FileMode.Create);
+                    await formFile.CopyToAsync(stream);
                 }
             }
 
@@ -57,21 +53,37 @@ namespace sc2playtime.Controllers
         {
             if (Directory.Exists(replaysPath))
             {
-                var data = (0, 0);
-                var replays = Directory.GetFiles(replaysPath);
-                foreach (var file in replays)
-                {
-                    if (Path.GetExtension(file) == ".SC2Replay")
-                    {
-                        data.Item1 += 1;
-                        data.Item2 += ReplayAnalysis.GameLengthReturning(file).Result;
-                    }
-                }
+                var data = ReplayAnalysis.GameLengthReturning(replaysPath).Result;
+                var playtime = new Playtime(data.Item1, data.Item2);
                 Directory.Delete(replaysPath, true);
-
-                return View(data);
+                return View(playtime);
             }
+
             return RedirectToAction("GetReplaysFiles");
+        }
+    }
+
+    public class Playtime
+    {
+        public Playtime(int games, double hours)
+        {
+            Games = games;
+            Hours = hours;
+        }
+
+        private int Games { get; set; }
+
+        private double Hours { get; set; }
+
+        public int GetGames()
+        {
+            return Games;
+        }
+
+        public double GetHours()
+        {
+            var hours = (Hours / 3600) * 0.7138;
+            return Math.Round(hours, 1);
         }
     }
 }
