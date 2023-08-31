@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = sc2playtime
 build_property.RootNamespace = sc2playtime
-build_property.ProjectDir = C:\Users\liber\OneDrive\Документы\GitHub\sc2playtime\sc2playtime\
+build_property.ProjectDir = E:\Coding\Projects\sc2playtime\sc2playtime\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\liber\OneDrive\Документы\GitHub\sc2playtime\sc2playtime
+build_property.MSBuildProjectDirectory = E:\Coding\Projects\sc2playtime\sc2playtime
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/liber/OneDrive/Документы/GitHub/sc2playtime/sc2playtime/Views/Calculate/CalculatePlayTime.cshtml]
+[E:/Coding/Projects/sc2playtime/sc2playtime/Views/Calculate/CalculatePlayTime.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYXRlXENhbGN1bGF0ZVBsYXlUaW1lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/liber/OneDrive/Документы/GitHub/sc2playtime/sc2playtime/Views/Calculate/GetReplaysFiles.cshtml]
+[E:/Coding/Projects/sc2playtime/sc2playtime/Views/Calculate/GetReplaysFiles.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYXRlXEdldFJlcGxheXNGaWxlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/liber/OneDrive/Документы/GitHub/sc2playtime/sc2playtime/Views/Home/Calculate.cshtml]
+[E:/Coding/Projects/sc2playtime/sc2playtime/Views/Home/Calculate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWxjdWxhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/liber/OneDrive/Документы/GitHub/sc2playtime/sc2playtime/Views/Home/Index.cshtml]
+[E:/Coding/Projects/sc2playtime/sc2playtime/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/liber/OneDrive/Документы/GitHub/sc2playtime/sc2playtime/Views/Home/Privacy.cshtml]
+[E:/Coding/Projects/sc2playtime/sc2playtime/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/liber/OneDrive/Документы/GitHub/sc2playtime/sc2playtime/Views/Shared/Error.cshtml]
+[E:/Coding/Projects/sc2playtime/sc2playtime/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/liber/OneDrive/Документы/GitHub/sc2playtime/sc2playtime/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Coding/Projects/sc2playtime/sc2playtime/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/liber/OneDrive/Документы/GitHub/sc2playtime/sc2playtime/Views/_ViewImports.cshtml]
+[E:/Coding/Projects/sc2playtime/sc2playtime/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/liber/OneDrive/Документы/GitHub/sc2playtime/sc2playtime/Views/_ViewStart.cshtml]
+[E:/Coding/Projects/sc2playtime/sc2playtime/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/liber/OneDrive/Документы/GitHub/sc2playtime/sc2playtime/Views/Shared/_Layout.cshtml]
+[E:/Coding/Projects/sc2playtime/sc2playtime/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-amdt4cdm5a

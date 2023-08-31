@@ -1,6 +1,10 @@
+#!/usr/bin/env python2
+from __future__ import print_function
+
 import os
 import os.path
 import pkgutil
+import shutil
 import sys
 import tempfile
 
@@ -8,9 +12,9 @@ import tempfile
 __all__ = ["version", "bootstrap"]
 
 
-_SETUPTOOLS_VERSION = "40.6.2"
+_SETUPTOOLS_VERSION = "41.2.0"
 
-_PIP_VERSION = "18.1"
+_PIP_VERSION = "19.2.3"
 
 _PROJECTS = [
     ("setuptools", _SETUPTOOLS_VERSION),
@@ -34,6 +38,7 @@ def version():
     """
     return _PIP_VERSION
 
+
 def _disable_pip_configuration_settings():
     # We deliberately ignore all pip environment variables
     # when invoking pip
@@ -46,8 +51,8 @@ def _disable_pip_configuration_settings():
     os.environ['PIP_CONFIG_FILE'] = os.devnull
 
 
-def bootstrap(*, root=None, upgrade=False, user=False,
-              altinstall=False, default_pip=False,
+def bootstrap(root=None, upgrade=False, user=False,
+              altinstall=False, default_pip=True,
               verbosity=0):
     """
     Bootstrap pip into the current Python installation (or the given root
@@ -61,9 +66,9 @@ def bootstrap(*, root=None, upgrade=False, user=False,
                verbosity=verbosity)
 
 
-def _bootstrap(*, root=None, upgrade=False, user=False,
-              altinstall=False, default_pip=False,
-              verbosity=0):
+def _bootstrap(root=None, upgrade=False, user=False,
+               altinstall=False, default_pip=True,
+               verbosity=0):
     """
     Bootstrap pip into the current Python installation (or the given root
     directory). Returns pip command status code.
@@ -88,7 +93,8 @@ def _bootstrap(*, root=None, upgrade=False, user=False,
         # omit pip and easy_install
         os.environ["ENSUREPIP_OPTIONS"] = "install"
 
-    with tempfile.TemporaryDirectory() as tmpdir:
+    tmpdir = tempfile.mkdtemp()
+    try:
         # Put our bundled wheels into a temporary directory and construct the
         # additional paths that need added to sys.path
         additional_paths = []
@@ -105,7 +111,7 @@ def _bootstrap(*, root=None, upgrade=False, user=False,
 
         # Construct the arguments to be passed to the pip command
         args = ["install", "--no-index", "--find-links", tmpdir]
-        if sys.implementation.name == "ironpython":
+        if sys.platform == 'cli': # IronPython doesn't do bytecode compilation
             args += ["--no-compile"]
         if root:
             args += ["--root", root]
@@ -117,8 +123,10 @@ def _bootstrap(*, root=None, upgrade=False, user=False,
             args += ["-" + "v" * verbosity]
 
         return _run_pip(args + [p[0] for p in _PROJECTS], additional_paths)
+    finally:
+        shutil.rmtree(tmpdir, ignore_errors=True)
 
-def _uninstall_helper(*, verbosity=0):
+def _uninstall_helper(verbosity=0):
     """Helper to support a clean default uninstall process on Windows
 
     Note that calling this function may alter os.environ.
@@ -190,9 +198,16 @@ def _main(argv=None):
     parser.add_argument(
         "--default-pip",
         action="store_true",
-        default=False,
-        help=("Make a default pip install, installing the unqualified pip "
-              "and easy_install in addition to the versioned scripts."),
+        default=True,
+        dest="default_pip",
+        help=argparse.SUPPRESS,
+    )
+    parser.add_argument(
+        "--no-default-pip",
+        action="store_false",
+        dest="default_pip",
+        help=("Make a non default install, installing only the X and X.Y "
+              "versioned scripts."),
     )
 
     args = parser.parse_args(argv)
