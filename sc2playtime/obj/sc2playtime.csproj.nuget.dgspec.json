@@ -46,11 +46,11 @@
           "dependencies": {
             "IronPython": {
               "target": "Package",
-              "version": "[3.4.1, )"
+              "version": "[2.7.12, )"
             },
             "IronPython.StdLib": {
               "target": "Package",
-              "version": "[3.4.1, )"
+              "version": "[2.7.12, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",

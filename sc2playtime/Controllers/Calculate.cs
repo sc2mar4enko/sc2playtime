@@ -1,6 +1,8 @@
-﻿using IronPython.Hosting;
+﻿using System.Text.RegularExpressions;
+using IronPython.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using sc2playtime.Helpers;
+using sc2playtime.scripts;
 
 namespace sc2playtime.Controllers
 {
@@ -54,28 +56,17 @@ namespace sc2playtime.Controllers
         {
             if (Directory.Exists(replaysPath))
             {
-                var engine = Python.CreateEngine();
-                var searchPaths = engine.GetSearchPaths();
-                searchPaths.Add(Path.Combine(Directory.GetCurrentDirectory(), @"scripts\Lib\site-packages"));
-                engine.SetSearchPaths(searchPaths);
-
-                var scope = engine.CreateScope();
-                scope.SetVariable("replaysPath", replaysPath);
-
-                var source = engine.CreateScriptSourceFromFile(Path.Combine(Directory.GetCurrentDirectory(), @"scripts\replays.py"));
-
-                var compilation = source.Compile();
-                var result = compilation.Execute(scope);
-
-                dynamic data = null!;
-                foreach (var function in scope.GetVariableNames())
+                var data = (0, 0);
+                var replays = Directory.GetFiles(replaysPath);
+                foreach (var file in replays)
                 {
-                    if (function == "time")
-                        data = scope.GetVariable(function)();
+                    if (Path.GetExtension(file) == ".SC2Replay")
+                    {
+                        data.Item1 += 1;
+                        data.Item2 += ReplayAnalysis.GameLengthReturning(file).Result;
+                    }
                 }
-
                 Directory.Delete(replaysPath, true);
-                engine.Runtime.Shutdown();
 
                 return View(data);
             }
