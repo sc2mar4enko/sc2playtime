@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using sc2playtime.Helpers;
+using sc2playtime.Models;
 using sc2playtime.scripts;
 
 namespace sc2playtime.Controllers
@@ -37,8 +38,7 @@ namespace sc2playtime.Controllers
             {
                 if (formFile.Length > 0)
                 {
-                    string fileName = _randomStringGenerator.GenerateRandomString() +
-                                      Path.GetFileName(formFile.FileName);
+                    string fileName = _randomStringGenerator.GenerateRandomString() + Path.GetFileName(formFile.FileName);
                     string filePath = Path.Combine(newFolderPath, fileName);
 
                     await using var stream = new FileStream(filePath, FileMode.Create);
@@ -54,36 +54,12 @@ namespace sc2playtime.Controllers
             if (Directory.Exists(replaysPath))
             {
                 var data = ReplayAnalysis.GameLengthReturning(replaysPath).Result;
-                var playtime = new Playtime(data.Item1, data.Item2);
+                var playtime = new PlaytimeModel(data.Item1, data.Item2);
                 Directory.Delete(replaysPath, true);
                 return View(playtime);
             }
 
             return RedirectToAction("GetReplaysFiles");
-        }
-    }
-
-    public class Playtime
-    {
-        public Playtime(int games, double hours)
-        {
-            Games = games;
-            Hours = hours;
-        }
-
-        private int Games { get; set; }
-
-        private double Hours { get; set; }
-
-        public int GetGames()
-        {
-            return Games;
-        }
-
-        public double GetHours()
-        {
-            var hours = (Hours / 3600) * 0.7138;
-            return Math.Round(hours, 1);
         }
     }
 }
