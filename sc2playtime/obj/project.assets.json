@@ -5099,6 +5099,55 @@
           }
         }
       },
+      "Microsoft.Extensions.Configuration/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Primitives": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Binder/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.DependencyInjection/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -5128,6 +5177,145 @@
         },
         "runtime": {
           "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "Microsoft.Extensions.Logging/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "6.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0",
+          "System.Diagnostics.DiagnosticSource": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/Microsoft.Extensions.Logging.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Extensions.Logging.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/6.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "Microsoft.Extensions.Logging.Configuration/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "6.0.0",
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Configuration.Binder": "6.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0",
+          "Microsoft.Extensions.Options.ConfigurationExtensions": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Configuration.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Configuration.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Console/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging.Configuration": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0",
+          "System.Text.Json": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Microsoft.Extensions.Logging.Console.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Logging.Console.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "Microsoft.Extensions.Options/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Primitives": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/Microsoft.Extensions.Options.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Extensions.Options.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Options.ConfigurationExtensions/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Configuration.Binder": "6.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0",
+          "Microsoft.Extensions.Primitives": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Microsoft.Extensions.Primitives.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Primitives.dll": {
             "related": ".xml"
           }
         },
@@ -5781,6 +5969,573 @@
           }
         }
       },
+      "s2protocol.NET/0.6.11": {
+        "type": "package",
+        "dependencies": {
+          "IronPython": "2.7.12",
+          "IronPython.StdLib": "2.7.12",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Console": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/s2protocol.NET.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/s2protocol.NET.dll": {
+            "related": ".xml"
+          }
+        },
+        "contentFiles": {
+          "contentFiles/any/any/libs2/mpyq.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/mpyq.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/__init__.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/__init__.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/attributes.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/attributes.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/build.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/build.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/compat.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/compat.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/decoders.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/decoders.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/diff.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/diff.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/encoders.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/encoders.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/namespaces.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/namespaces.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/s2_cli.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/s2_cli.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/__init__.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/__init__.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol15405.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol15405.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol16561.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol16561.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol16605.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol16605.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol16755.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol16755.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol16939.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol16939.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol17266.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol17266.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol17326.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol17326.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol18092.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol18092.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol18468.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol18468.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol18574.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol18574.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol19132.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol19132.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol19458.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol19458.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol19595.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol19595.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol19679.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol19679.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol21029.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol21029.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol22612.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol22612.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol23260.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol23260.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol24944.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol24944.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol26490.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol26490.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol27950.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol27950.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol28272.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol28272.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol28667.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol28667.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol32283.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol32283.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol51702.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol51702.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol52910.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol52910.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol53644.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol53644.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol54518.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol54518.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol55505.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol55505.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol55958.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol55958.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol56787.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol56787.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol57507.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol57507.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol58400.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol58400.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol59587.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol59587.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol60196.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol60196.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol60321.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol60321.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol62347.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol62347.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol62848.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol62848.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol63454.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol63454.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol64469.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol64469.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol65094.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol65094.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol65384.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol65384.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol65895.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol65895.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol66668.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol66668.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol67188.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol67188.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol67926.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol67926.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol69232.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol69232.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol70154.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol70154.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol71061.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol71061.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol71523.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol71523.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol71663.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol71663.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol72282.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol72282.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol73286.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol73286.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol73559.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol73559.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol73620.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol73620.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol74071.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol74071.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol74456.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol74456.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol74741.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol74741.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol75025.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol75025.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol75689.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol75689.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol75800.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol75800.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol76052.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol76052.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol76114.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol76114.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol77379.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol77379.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol77535.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol77535.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol77661.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol77661.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol78285.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol78285.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol80669.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol80669.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol80949.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol80949.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol81009.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol81009.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol82457.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol82457.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol82893.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol82893.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol83830.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol83830.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol84643.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol84643.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol86383.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol86383.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol87702.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol87702.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol88500.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol88500.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol89165.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol89165.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol89634.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol89634.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol89720.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol89720.py"
+          },
+          "contentFiles/any/any/libs2/s2protocol/versions/protocol90136.py": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "libs2/s2protocol/versions/protocol90136.py"
+          }
+        }
+      },
       "System.AppContext/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -6044,24 +6799,23 @@
           }
         }
       },
-      "System.Diagnostics.DiagnosticSource/4.3.0": {
+      "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
-          "System.Collections": "4.3.0",
-          "System.Diagnostics.Tracing": "4.3.0",
-          "System.Reflection": "4.3.0",
-          "System.Runtime": "4.3.0",
-          "System.Threading": "4.3.0"
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         },
         "compile": {
-          "lib/netstandard1.3/_._": {
+          "lib/net6.0/System.Diagnostics.DiagnosticSource.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {
+          "lib/net6.0/System.Diagnostics.DiagnosticSource.dll": {
             "related": ".xml"
           }
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
       "System.Diagnostics.Tools/4.3.0": {
@@ -10028,6 +10782,63 @@
         "microsoft.dotnet.scaffolding.shared.nuspec"
       ]
     },
+    "Microsoft.Extensions.Configuration/6.0.0": {
+      "sha512": "tq2wXyh3fL17EMF2bXgRhU7JrbO3on93MRKYxzz4JzzvuGSA1l0W3GI9/tl8EO89TH+KWEymP7bcFway6z9fXg==",
+      "type": "package",
+      "path": "microsoft.extensions.configuration/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.Configuration.dll",
+        "lib/net461/Microsoft.Extensions.Configuration.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.xml",
+        "microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+        "microsoft.extensions.configuration.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/6.0.0": {
+      "sha512": "qWzV9o+ZRWq+pGm+1dF+R7qTgTYoXvbyowRoBxQJGfqTpqDun2eteerjRQhq5PQ/14S+lqto3Ft4gYaRyl4rdQ==",
+      "type": "package",
+      "path": "microsoft.extensions.configuration.abstractions/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "lib/net461/Microsoft.Extensions.Configuration.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.xml",
+        "microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+        "microsoft.extensions.configuration.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Configuration.Binder/6.0.0": {
+      "sha512": "b3ErKzND8LIC7o08QAVlKfaEIYEvLJbtmVbFZVBRXeu9YkKfSSzLZfR1SUfQPBIy9mKLhEtJgGYImkcMNaKE0A==",
+      "type": "package",
+      "path": "microsoft.extensions.configuration.binder/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.Configuration.Binder.dll",
+        "lib/net461/Microsoft.Extensions.Configuration.Binder.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.xml",
+        "microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+        "microsoft.extensions.configuration.binder.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
     "Microsoft.Extensions.DependencyInjection/6.0.0": {
       "sha512": "k6PWQMuoBDGGHOQTtyois2u4AwyVcIwL2LaSLlTZQm2CYcJ1pxbt6jfAnpWmzENA/wfrYRI/X9DTLoUkE4AsLw==",
       "type": "package",
@@ -10075,6 +10886,188 @@
         "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
         "microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
         "microsoft.extensions.dependencyinjection.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Logging/6.0.0": {
+      "sha512": "eIbyj40QDg1NDz0HBW0S5f3wrLVnKWnDJ/JtZ+yJDFnDj90VoPuoPmFkeaXrtu+0cKm5GRAwoDf+dBWXK0TUdg==",
+      "type": "package",
+      "path": "microsoft.extensions.logging/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.Logging.dll",
+        "lib/net461/Microsoft.Extensions.Logging.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.Logging.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.Logging.xml",
+        "microsoft.extensions.logging.6.0.0.nupkg.sha512",
+        "microsoft.extensions.logging.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Logging.Abstractions/6.0.0": {
+      "sha512": "/HggWBbTwy8TgebGSX5DBZ24ndhzi93sHUBDvP1IxbZD7FDokYzdAr6+vbWGjw2XAfR2EJ1sfKUotpjHnFWPxA==",
+      "type": "package",
+      "path": "microsoft.extensions.logging.abstractions/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "analyzers/dotnet/roslyn3.11/cs/Microsoft.Extensions.Logging.Generators.dll",
+        "analyzers/dotnet/roslyn3.11/cs/cs/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/de/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/es/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/fr/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/it/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/ja/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/ko/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/pl/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/pt-BR/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/ru/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/tr/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/zh-Hans/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/zh-Hant/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/Microsoft.Extensions.Logging.Generators.dll",
+        "analyzers/dotnet/roslyn4.0/cs/cs/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/de/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/es/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/fr/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/it/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/ja/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/ko/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/pl/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/pt-BR/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/ru/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/tr/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/zh-Hans/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/zh-Hant/Microsoft.Extensions.Logging.Generators.resources.dll",
+        "build/Microsoft.Extensions.Logging.Abstractions.targets",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.Logging.Abstractions.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/Microsoft.Extensions.Logging.Abstractions.dll",
+        "lib/net461/Microsoft.Extensions.Logging.Abstractions.xml",
+        "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.xml",
+        "microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+        "microsoft.extensions.logging.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Logging.Configuration/6.0.0": {
+      "sha512": "ZDskjagmBAbv+K8rYW9VhjPplhbOE63xUD0DiuydZJwt15dRyoqicYklLd86zzeintUc7AptDkHn+YhhYkYo8A==",
+      "type": "package",
+      "path": "microsoft.extensions.logging.configuration/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.Logging.Configuration.dll",
+        "lib/net461/Microsoft.Extensions.Logging.Configuration.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.Configuration.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.Configuration.xml",
+        "microsoft.extensions.logging.configuration.6.0.0.nupkg.sha512",
+        "microsoft.extensions.logging.configuration.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Logging.Console/6.0.0": {
+      "sha512": "gsqKzOEdsvq28QiXFxagmn1oRB9GeI5GgYCkoybZtQA0IUb7QPwf1WmN3AwJeNIsadTvIFQCiVK0OVIgKfOBGg==",
+      "type": "package",
+      "path": "microsoft.extensions.logging.console/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.Logging.Console.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/Microsoft.Extensions.Logging.Console.dll",
+        "lib/net461/Microsoft.Extensions.Logging.Console.xml",
+        "lib/net6.0/Microsoft.Extensions.Logging.Console.dll",
+        "lib/net6.0/Microsoft.Extensions.Logging.Console.xml",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Logging.Console.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Logging.Console.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.Console.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.Console.xml",
+        "microsoft.extensions.logging.console.6.0.0.nupkg.sha512",
+        "microsoft.extensions.logging.console.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Options/6.0.0": {
+      "sha512": "dzXN0+V1AyjOe2xcJ86Qbo233KHuLEY0njf/P2Kw8SfJU+d45HNS2ctJdnEnrWbM9Ye2eFgaC5Mj9otRMU6IsQ==",
+      "type": "package",
+      "path": "microsoft.extensions.options/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.Options.dll",
+        "lib/net461/Microsoft.Extensions.Options.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Options.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Options.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.Options.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.Options.xml",
+        "microsoft.extensions.options.6.0.0.nupkg.sha512",
+        "microsoft.extensions.options.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Options.ConfigurationExtensions/6.0.0": {
+      "sha512": "bXWINbTn0vC0FYc9GaQTISbxhQLAMrvtbuvD9N6JelEaIS/Pr62wUCinrq5bf1WRBGczt1v4wDhxFtVFNcMdUQ==",
+      "type": "package",
+      "path": "microsoft.extensions.options.configurationextensions/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+        "lib/net461/Microsoft.Extensions.Options.ConfigurationExtensions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Options.ConfigurationExtensions.xml",
+        "microsoft.extensions.options.configurationextensions.6.0.0.nupkg.sha512",
+        "microsoft.extensions.options.configurationextensions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Primitives/6.0.0": {
+      "sha512": "9+PnzmQFfEFNR9J2aDTfJGGupShHjOuGw4VUv+JB044biSHrnmCIMD+mJHmb2H7YryrfBEXDurxQ47gJZdCKNQ==",
+      "type": "package",
+      "path": "microsoft.extensions.primitives/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.Primitives.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/Microsoft.Extensions.Primitives.dll",
+        "lib/net461/Microsoft.Extensions.Primitives.xml",
+        "lib/net6.0/Microsoft.Extensions.Primitives.dll",
+        "lib/net6.0/Microsoft.Extensions.Primitives.xml",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Primitives.xml",
+        "microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+        "microsoft.extensions.primitives.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
@@ -11247,6 +12240,111 @@
         "runtimes/ubuntu.16.10-x64/native/System.Security.Cryptography.Native.OpenSsl.so"
       ]
     },
+    "s2protocol.NET/0.6.11": {
+      "sha512": "S9zQRwNuQNgj/R5V4nQDfyeBj+5tYUjMzUOS9s5zpIuDvDMDiyms6j3V3JeOmffsCqjENEeXDXpOxNEI2DOBww==",
+      "type": "package",
+      "path": "s2protocol.net/0.6.11",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "contentFiles/any/any/libs2/mpyq.py",
+        "contentFiles/any/any/libs2/s2protocol/__init__.py",
+        "contentFiles/any/any/libs2/s2protocol/attributes.py",
+        "contentFiles/any/any/libs2/s2protocol/build.py",
+        "contentFiles/any/any/libs2/s2protocol/compat.py",
+        "contentFiles/any/any/libs2/s2protocol/decoders.py",
+        "contentFiles/any/any/libs2/s2protocol/diff.py",
+        "contentFiles/any/any/libs2/s2protocol/encoders.py",
+        "contentFiles/any/any/libs2/s2protocol/namespaces.py",
+        "contentFiles/any/any/libs2/s2protocol/s2_cli.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/__init__.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol15405.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol16561.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol16605.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol16755.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol16939.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol17266.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol17326.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol18092.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol18468.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol18574.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol19132.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol19458.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol19595.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol19679.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol21029.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol22612.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol23260.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol24944.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol26490.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol27950.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol28272.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol28667.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol32283.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol51702.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol52910.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol53644.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol54518.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol55505.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol55958.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol56787.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol57507.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol58400.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol59587.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol60196.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol60321.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol62347.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol62848.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol63454.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol64469.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol65094.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol65384.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol65895.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol66668.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol67188.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol67926.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol69232.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol70154.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol71061.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol71523.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol71663.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol72282.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol73286.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol73559.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol73620.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol74071.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol74456.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol74741.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol75025.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol75689.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol75800.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol76052.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol76114.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol77379.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol77535.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol77661.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol78285.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol80669.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol80949.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol81009.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol82457.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol82893.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol83830.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol84643.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol86383.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol87702.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol88500.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol89165.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol89634.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol89720.py",
+        "contentFiles/any/any/libs2/s2protocol/versions/protocol90136.py",
+        "lib/net6.0/s2protocol.NET.dll",
+        "lib/net6.0/s2protocol.NET.xml",
+        "s2protocol.net.0.6.11.nupkg.sha512",
+        "s2protocol.net.nuspec"
+      ]
+    },
     "System.AppContext/4.3.0": {
       "sha512": "fKC+rmaLfeIzUhagxY17Q9siv/sPrjjKcfNg1Ic8IlQkZLipo8ljcaZQu4VtI4Jqbzjc2VTjzGLF6WmsRXAEgA==",
       "type": "package",
@@ -11718,25 +12816,29 @@
         "system.diagnostics.debug.nuspec"
       ]
     },
-    "System.Diagnostics.DiagnosticSource/4.3.0": {
-      "sha512": "tD6kosZnTAGdrEa0tZSuFyunMbt/5KYDnHdndJYGqZoNy00XVXyACd5d6KnE1YgYv3ne2CjtAfNXo/fwEhnKUA==",
+    "System.Diagnostics.DiagnosticSource/6.0.0": {
+      "sha512": "frQDfv0rl209cKm1lnwTgFPzNigy2EKk1BS3uAvHvlBVKe5cymGyHO+Sj+NLv5VF/AhHsqPIUUwya5oV4CHMUw==",
       "type": "package",
-      "path": "system.diagnostics.diagnosticsource/4.3.0",
+      "path": "system.diagnostics.diagnosticsource/6.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "ThirdPartyNotices.txt",
-        "dotnet_library_license.txt",
-        "lib/net46/System.Diagnostics.DiagnosticSource.dll",
-        "lib/net46/System.Diagnostics.DiagnosticSource.xml",
-        "lib/netstandard1.1/System.Diagnostics.DiagnosticSource.dll",
-        "lib/netstandard1.1/System.Diagnostics.DiagnosticSource.xml",
-        "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll",
-        "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.xml",
-        "lib/portable-net45+win8+wpa81/System.Diagnostics.DiagnosticSource.dll",
-        "lib/portable-net45+win8+wpa81/System.Diagnostics.DiagnosticSource.xml",
-        "system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
-        "system.diagnostics.diagnosticsource.nuspec"
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/System.Diagnostics.DiagnosticSource.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/System.Diagnostics.DiagnosticSource.dll",
+        "lib/net461/System.Diagnostics.DiagnosticSource.xml",
+        "lib/net5.0/System.Diagnostics.DiagnosticSource.dll",
+        "lib/net5.0/System.Diagnostics.DiagnosticSource.xml",
+        "lib/net6.0/System.Diagnostics.DiagnosticSource.dll",
+        "lib/net6.0/System.Diagnostics.DiagnosticSource.xml",
+        "lib/netstandard2.0/System.Diagnostics.DiagnosticSource.dll",
+        "lib/netstandard2.0/System.Diagnostics.DiagnosticSource.xml",
+        "system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+        "system.diagnostics.diagnosticsource.nuspec",
+        "useSharedDesignerContext.txt"
       ]
     },
     "System.Diagnostics.Tools/4.3.0": {
@@ -15018,23 +16120,29 @@
     "net6.0": [
       "IronPython >= 3.4.1",
       "IronPython.StdLib >= 3.4.1",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.16"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.16",
+      "s2protocol.NET >= 0.6.11"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\skdmr\\.nuget\\packages\\": {}
+    "C:\\Users\\liber\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Coding\\Projects\\sc2playtime\\sc2playtime\\sc2playtime.csproj",
+      "projectUniqueName": "C:\\Users\\liber\\OneDrive\\Документы\\GitHub\\sc2playtime\\sc2playtime\\sc2playtime.csproj",
       "projectName": "sc2playtime",
-      "projectPath": "E:\\Coding\\Projects\\sc2playtime\\sc2playtime\\sc2playtime.csproj",
-      "packagesPath": "C:\\Users\\skdmr\\.nuget\\packages\\",
-      "outputPath": "E:\\Coding\\Projects\\sc2playtime\\sc2playtime\\obj\\",
+      "projectPath": "C:\\Users\\liber\\OneDrive\\Документы\\GitHub\\sc2playtime\\sc2playtime\\sc2playtime.csproj",
+      "packagesPath": "C:\\Users\\liber\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\liber\\OneDrive\\Документы\\GitHub\\sc2playtime\\sc2playtime\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\skdmr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\liber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -15071,6 +16179,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[6.0.16, )"
+          },
+          "s2protocol.NET": {
+            "target": "Package",
+            "version": "[0.6.11, )"
           }
         },
         "imports": [
@@ -15092,7 +16204,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

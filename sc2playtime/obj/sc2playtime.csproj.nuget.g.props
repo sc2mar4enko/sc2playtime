@@ -5,12 +5,13 @@
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\skdmr\.nuget\packages\</NuGetPackageFolders>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\liber\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
-    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.7.0</NuGetToolVersion>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.6.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <SourceRoot Include="C:\Users\skdmr\.nuget\packages\" />
+    <SourceRoot Include="C:\Users\liber\.nuget\packages\" />
+    <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <None Include="$(NuGetPackageRoot)ironpython.stdlib\3.4.1\contentFiles\any\any\lib\__future__.py" Condition="Exists('$(NuGetPackageRoot)ironpython.stdlib\3.4.1\contentFiles\any\any\lib\__future__.py')">
@@ -7054,9 +7055,1012 @@
       <Link>lib\zipfile.py</Link>
     </None>
   </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\mpyq.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\mpyq.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\mpyq.py</TargetPath>
+      <DestinationSubDirectory>libs2\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\mpyq.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\__init__.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\__init__.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\__init__.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\__init__.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\attributes.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\attributes.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\attributes.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\attributes.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\build.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\build.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\build.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\build.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\compat.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\compat.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\compat.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\compat.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\decoders.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\decoders.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\decoders.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\decoders.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\diff.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\diff.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\diff.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\diff.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\encoders.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\encoders.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\encoders.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\encoders.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\namespaces.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\namespaces.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\namespaces.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\namespaces.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\s2_cli.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\s2_cli.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\s2_cli.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\s2_cli.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\__init__.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\__init__.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\__init__.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\__init__.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol15405.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol15405.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol15405.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol15405.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol16561.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol16561.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol16561.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol16561.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol16605.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol16605.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol16605.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol16605.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol16755.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol16755.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol16755.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol16755.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol16939.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol16939.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol16939.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol16939.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol17266.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol17266.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol17266.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol17266.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol17326.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol17326.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol17326.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol17326.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol18092.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol18092.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol18092.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol18092.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol18468.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol18468.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol18468.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol18468.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol18574.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol18574.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol18574.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol18574.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol19132.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol19132.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol19132.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol19132.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol19458.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol19458.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol19458.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol19458.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol19595.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol19595.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol19595.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol19595.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol19679.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol19679.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol19679.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol19679.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol21029.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol21029.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol21029.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol21029.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol22612.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol22612.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol22612.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol22612.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol23260.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol23260.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol23260.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol23260.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol24944.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol24944.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol24944.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol24944.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol26490.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol26490.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol26490.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol26490.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol27950.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol27950.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol27950.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol27950.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol28272.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol28272.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol28272.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol28272.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol28667.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol28667.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol28667.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol28667.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol32283.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol32283.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol32283.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol32283.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol51702.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol51702.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol51702.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol51702.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol52910.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol52910.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol52910.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol52910.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol53644.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol53644.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol53644.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol53644.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol54518.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol54518.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol54518.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol54518.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol55505.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol55505.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol55505.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol55505.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol55958.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol55958.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol55958.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol55958.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol56787.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol56787.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol56787.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol56787.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol57507.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol57507.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol57507.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol57507.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol58400.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol58400.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol58400.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol58400.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol59587.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol59587.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol59587.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol59587.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol60196.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol60196.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol60196.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol60196.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol60321.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol60321.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol60321.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol60321.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol62347.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol62347.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol62347.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol62347.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol62848.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol62848.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol62848.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol62848.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol63454.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol63454.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol63454.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol63454.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol64469.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol64469.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol64469.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol64469.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol65094.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol65094.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol65094.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol65094.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol65384.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol65384.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol65384.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol65384.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol65895.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol65895.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol65895.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol65895.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol66668.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol66668.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol66668.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol66668.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol67188.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol67188.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol67188.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol67188.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol67926.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol67926.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol67926.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol67926.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol69232.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol69232.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol69232.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol69232.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol70154.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol70154.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol70154.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol70154.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol71061.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol71061.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol71061.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol71061.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol71523.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol71523.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol71523.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol71523.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol71663.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol71663.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol71663.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol71663.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol72282.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol72282.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol72282.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol72282.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol73286.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol73286.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol73286.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol73286.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol73559.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol73559.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol73559.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol73559.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol73620.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol73620.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol73620.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol73620.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol74071.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol74071.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol74071.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol74071.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol74456.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol74456.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol74456.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol74456.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol74741.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol74741.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol74741.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol74741.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol75025.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol75025.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol75025.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol75025.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol75689.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol75689.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol75689.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol75689.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol75800.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol75800.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol75800.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol75800.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol76052.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol76052.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol76052.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol76052.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol76114.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol76114.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol76114.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol76114.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol77379.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol77379.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol77379.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol77379.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol77535.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol77535.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol77535.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol77535.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol77661.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol77661.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol77661.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol77661.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol78285.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol78285.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol78285.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol78285.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol80669.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol80669.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol80669.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol80669.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol80949.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol80949.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol80949.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol80949.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol81009.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol81009.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol81009.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol81009.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol82457.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol82457.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol82457.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol82457.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol82893.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol82893.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol82893.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol82893.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol83830.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol83830.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol83830.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol83830.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol84643.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol84643.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol84643.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol84643.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol86383.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol86383.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol86383.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol86383.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol87702.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol87702.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol87702.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol87702.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol88500.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol88500.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol88500.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol88500.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol89165.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol89165.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol89165.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol89165.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol89634.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol89634.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol89634.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol89634.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol89720.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol89720.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol89720.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol89720.py</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol90136.py" Condition="Exists('$(NuGetPackageRoot)s2protocol.net\0.6.11\contentFiles\any\any\libs2\s2protocol\versions\protocol90136.py')">
+      <NuGetPackageId>s2protocol.NET</NuGetPackageId>
+      <NuGetPackageVersion>0.6.11</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>libs2\s2protocol\versions\protocol90136.py</TargetPath>
+      <DestinationSubDirectory>libs2\s2protocol\versions\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>libs2\s2protocol\versions\protocol90136.py</Link>
+    </None>
+  </ItemGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgMessagePackAnalyzer Condition=" '$(PkgMessagePackAnalyzer)' == '' ">C:\Users\skdmr\.nuget\packages\messagepackanalyzer\2.1.152</PkgMessagePackAnalyzer>
-    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\skdmr\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2</PkgMicrosoft_CodeAnalysis_Analyzers>
-    <PkgMicrosoft_CodeAnalysis_AnalyzerUtilities Condition=" '$(PkgMicrosoft_CodeAnalysis_AnalyzerUtilities)' == '' ">C:\Users\skdmr\.nuget\packages\microsoft.codeanalysis.analyzerutilities\3.3.0</PkgMicrosoft_CodeAnalysis_AnalyzerUtilities>
+    <PkgMessagePackAnalyzer Condition=" '$(PkgMessagePackAnalyzer)' == '' ">C:\Users\liber\.nuget\packages\messagepackanalyzer\2.1.152</PkgMessagePackAnalyzer>
+    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\liber\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2</PkgMicrosoft_CodeAnalysis_Analyzers>
+    <PkgMicrosoft_CodeAnalysis_AnalyzerUtilities Condition=" '$(PkgMicrosoft_CodeAnalysis_AnalyzerUtilities)' == '' ">C:\Users\liber\.nuget\packages\microsoft.codeanalysis.analyzerutilities\3.3.0</PkgMicrosoft_CodeAnalysis_AnalyzerUtilities>
   </PropertyGroup>
 </Project>

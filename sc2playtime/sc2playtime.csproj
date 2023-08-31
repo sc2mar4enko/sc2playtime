@@ -10,6 +10,7 @@
     <PackageReference Include="IronPython" Version="3.4.1" />
     <PackageReference Include="IronPython.StdLib" Version="3.4.1" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+    <PackageReference Include="s2protocol.NET" Version="0.6.11" />
   </ItemGroup>
 
 </Project>

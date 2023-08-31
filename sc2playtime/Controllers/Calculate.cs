@@ -1,7 +1,8 @@
 ﻿using IronPython.Hosting;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Scripting.Hosting;
 using sc2playtime.Helpers;
-
+using s2protocol;
 namespace sc2playtime.Controllers
 {
     public class Calculate : Controller
@@ -54,32 +55,39 @@ namespace sc2playtime.Controllers
         {
             if (Directory.Exists(replaysPath))
             {
-                var engine = Python.CreateEngine();
-                var searchPaths = engine.GetSearchPaths();
-                searchPaths.Add(Path.Combine(Directory.GetCurrentDirectory(), @"scripts\Lib\site-packages"));
-                engine.SetSearchPaths(searchPaths);
-
-                var scope = engine.CreateScope();
-                scope.SetVariable("replaysPath", replaysPath);
-
-                var source = engine.CreateScriptSourceFromFile(Path.Combine(Directory.GetCurrentDirectory(), @"scripts\replays.py"));
-
-                var compilation = source.Compile();
-                var result = compilation.Execute(scope);
-
-                dynamic data = null!;
-                foreach (var function in scope.GetVariableNames())
-                {
-                    if (function == "time")
-                        data = scope.GetVariable(function)();
-                }
+                var engine = Calculating(replaysPath, out var data);
 
                 Directory.Delete(replaysPath, true);
                 engine.Runtime.Shutdown();
-
                 return View(data);
             }
             return RedirectToAction("GetReplaysFiles");
+        }
+
+        private static ScriptEngine Calculating(string replaysPath, out dynamic data)
+        {
+            var engine = Python.CreateEngine();
+            var searchPaths = engine.GetSearchPaths();
+            searchPaths.Add(Path.Combine(Directory.GetCurrentDirectory(), @"scripts\Lib\site-packages"));
+            engine.SetSearchPaths(searchPaths);
+
+            var scope = engine.CreateScope();
+            scope.SetVariable("replaysPath", replaysPath);
+
+            var source =
+                engine.CreateScriptSourceFromFile(Path.Combine(Directory.GetCurrentDirectory(), @"scripts\replays.py"));
+
+            var compilation = source.Compile();
+            var result = compilation.Execute(scope);
+
+            data = null!;
+            foreach (var function in scope.GetVariableNames())
+            {
+                if (function == "time")
+                    data = scope.GetVariable(function)();
+            }
+
+            return engine;
         }
     }
 }
